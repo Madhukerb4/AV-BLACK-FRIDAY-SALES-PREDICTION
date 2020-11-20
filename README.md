@@ -15,12 +15,15 @@ As part of the model build, created 4 sections.
    
        1. Regularization - Lasso with feature selection - Selectfrommodel
        2. Tree Based Feature Importance methods - Random Forest Regressor and ExtraTrees Regressor
-4. Models 
+4. Models
+
    a. Parameters Hyper Tuning
+   
    b. Models
       1. Linear Regression
       2. XGBoost Regressor
       3. CatBoost Regressor
+      
    c. Model Evaluation
       1. Explained Variance Score
       2. Mean Absolute Error
