@@ -43,7 +43,13 @@ As part of the model build, created 4 sections.
  
  Best Model : XGBoost Regressor
  
- Best RMSE score : 2560.3
+ Best Training Adjusted R square : 0.759
+ 
+ Best Test Adjusted R square : 0.74
+ 
+ Best Test RMSE score : 2513
+ 
+ Best Submission RMSE score : 2560.3
  
  Comments are highly appreciated for better learning !!! 
  
